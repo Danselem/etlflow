@@ -1,0 +1,13 @@
+apache-airflow
+apache-airflow[mysql]
+apache-airflow[postgres]
+apache-airflow[google]
+apache-airflow-providers-apache-spark
+apache-airflow-providers-postgres
+pyspark
+psycopg2-binary
+boto3
+pandas
+pandera[pandas]
+pyarrow
+kafka-python
